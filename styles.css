@@ -7,6 +7,9 @@ body {
 header {
     color: #333;
     background-color: #002aff;
+    padding: 30px;
+    border-bottom: #333 3px solid;
+    text-align: center;
 }
 
 .social-links {
